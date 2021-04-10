@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Evaluator</string>
+    <string name="emi_calculator">EMI Calculator</string>
+    <string name="years">Years</string>
+    <string name="interest_rate">Interest Rate%</string>
+    <string name="principal_amount">Principal Amount</string>
+    <string name="eval">Eval</string>
+    <string name="interest">Interest</string>
+    <string name="zero">0</string>
+
+    <string-array name="planets_array">
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
